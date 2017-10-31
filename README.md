@@ -27,4 +27,5 @@ If you want to host the page on your own web hosting, you will need to run it lo
 - make a twitter handle for twitter integration
 - Change the favicon to something other than a love heart
 - Edit the raw html section down the bottom of the page.
-
+- Buzzwords to "Language and Framework experience"
+  * Add in SQL, Microsoft server 2016 and Django.
