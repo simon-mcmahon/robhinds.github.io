@@ -21,4 +21,10 @@ If you want to test it locally, install Ruby & Jekyll, clone the repository loca
 
 If you want to host the page on your own web hosting, you will need to run it locally and jekyll will build the site files to the /_site directory which you can then push to your hosting provider - See https://jekyllrb.com/ for details.
 
+## TO DO:
+- Add work experience.
+- Embed a picture to add some life to the resume.
+- make a twitter handle for twitter integration
+- Change the favicon to something other than a love heart
+- Edit the raw html section down the bottom of the page.
 
