@@ -42,11 +42,11 @@ skills:
 
 #Work experience is required
 roles:
- - title: Senior Engineer
-   start: 2016
+ - title: Data Analyst
+   start: August 2017
    end: Ongoing
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+   employer: Jacaranda Finance
+   description: Worked as a data analyst for a financial services company developing a credit scoring algorithm using a variety of statistical (logistic regression, decision tree and random forest) and machine learning methods in R. The service was integrated as a web API (to integrate with their existing stack) via Microsoft Machine learning server to process incoming applications in real time.
  - title: Senior Engineer
    start: 2012
    end: 2016
