@@ -43,20 +43,20 @@ skills:
 #Work experience is required
 roles:
  - title: Data Analyst
-   start: August 2017
+   start: 08/2017
    end: Ongoing
    employer: Jacaranda Finance
    description: Worked as a data analyst for a financial services company developing a credit scoring algorithm using a variety of statistical (logistic regression, decision tree and random forest) and machine learning methods in R. The service was integrated as a web API (to integrate with their existing stack) via Microsoft Machine learning server to process incoming applications in real time.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+ - title: Casual Academic Tutor
+   start: 2016
+   end: 2017
+   employer: University of Queensland
+   description: Enthusiastic and entertaining academic tutor to tutorials of around 25 students explaining mathematical concepts, marking assignments and giving feedback to help student improvement.
+   - title: Founder and Head Tutor
+   start: 2013
+   end: 2017
+   employer: Altius Tutoring
+   description: Founder of a 1-on-1 specialist tutoring company for QLD senior school students. My role included tutoring, marketing, sales and client relationship management.
 
 #Education is required
 education:
@@ -99,9 +99,6 @@ github:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>). <br/><br/>
-   <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework (although current role uses ColdFusion for server side web stack). I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/Parse. <br/><br/>
-   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+   <strong>Data Science</strong>: I am experienced in a variety of statistical (logarithmic regression / decision trees / random forests) and machine learning methods to quantify various types of categorical and numerical data. I am an experienced user of the R statistical programming language and SQL database tools to manage, modify and keep track of large datasets.<br/><br/>
+   <strong>Artificial Intelligence</strong>: I am a current participant in the Amazon sponsored FastAI deep learning course put on by Brisbane AI. I am currently working on a semantic segmentation deep learning model with a team of 3 colleagues as part of this challenge. Through this challenge, extensive use of Tensorflow, Keras and Numpy was needed.<br/><br/>
+   <strong>Cloud Infrastructure</strong>: I am used to working in teams using Jira, git and the Agile spring methodology. I have worked with and managed AWS EC2 instances, utilised s3 for file hosting and managed access permissions on IAM. I have experience working with Microsofts machine learning server and its interactions with R, and integration into an exisiting web application.
