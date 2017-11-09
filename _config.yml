@@ -11,8 +11,8 @@ markdown: kramdown
 primarylinks:
  - title: GitHub
    url: https://github.com/simon-mcmahon
- - title: Facebook
-   url: https://www.facebook.com/simon.nathan.mcmahon
+# - title: Facebook
+#   url: https://www.facebook.com/simon.nathan.mcmahon
  - title: BitBucket
    url: https://bitbucket.org/simon_n_mcmahon
  - title: LinkedIn
