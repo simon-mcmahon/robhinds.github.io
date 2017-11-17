@@ -1,6 +1,6 @@
 # Site settings
 title: Simon McMahon
-twitter_username: N/A
+#twitter_username: N/A
 name: Simon McMahon
 
 # Build settings
@@ -9,6 +9,8 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
+ - title: Resume
+   url: https://rawgit.com/simon-mcmahon/simon-mcmahon.github.io/master/Simon_McMahon_Resume.pdf
  - title: GitHub
    url: https://github.com/simon-mcmahon
 # - title: Facebook
