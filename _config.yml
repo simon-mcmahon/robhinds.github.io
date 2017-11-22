@@ -42,6 +42,9 @@ skills:
  - Dash by Plotly
  - Pandas
  - NLP
+ - Jira
+ - Git
+ - LaTeX
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
