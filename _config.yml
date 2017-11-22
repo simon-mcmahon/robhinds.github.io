@@ -1,5 +1,5 @@
 # Site settings
-title: Simon McMahon - Data Scientist and ML expert.
+title: Simon McMahon - Data Scientist
 #twitter_username: N/A
 name: Simon McMahon
 
@@ -97,9 +97,9 @@ github:
  - simon-mcmahon/simon-mcmahon.github.io
 
 #Stackoverflow flair is optional
-#stackoverflow:
-#   profileurl: http://stackoverflow.com/users/258813/rhinds
-#   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+stackoverflow:
+   profileurl: http://stackoverflow.com/users/258813/rhinds
+   flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 #Mobile apps section is optional
 #apps:
