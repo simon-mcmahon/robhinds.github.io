@@ -1,9 +1,8 @@
-# NerdAbility - A CV Generator
-A Jekyll based CV page generator based on the user profile page on Nerdability.
+# My personal CV website.
 
-You can checkout the page generated for this repo here: http://robhinds.github.io
+This repository is a heavily modified fork of the open source github pages CV template provided by Rob Hinds. I have customized the CSS, names and contents of various sections, Linkedin integration, modified the header menu so it is responsive on mobile devices and added a pdf download functionality for people to retrieve my resume.
 
-A few years agao I helped create a devloper CV webapp that let users sign up and connect lots of online footprints to make a dynamic online CV (formerly nerdability.com, now parked at: http://nerdability.esy.es/ ), and I thought why not just create a static site generated version that re-created the user profile CV.  Luckily, GitHub provides native support for Jekyll sites as part of its user pages (http://{{yourusername}}.github.io), so as well as hosting the Jekyll project on GitHub, it also automatically builds and serves the site for you on a nice share-able URL.
+You can checkout the page generated for this repo here: http://simon-mcmahon.github.io
 
 
 ## Making your own CV
@@ -16,16 +15,9 @@ To make your own GitHub hosted CV:
 4. Visit http://{{yourusername}}.github.io to check it out
 5. Share your new CV/Profile with the world!
 
-
 If you want to test it locally, install Ruby & Jekyll, clone the repository locally and run "jekyll serve" from the repo root directoy.
 
 If you want to host the page on your own web hosting, you will need to run it locally and jekyll will build the site files to the /_site directory which you can then push to your hosting provider - See https://jekyllrb.com/ for details.
 
 ## TO DO:
-- Add work experience.
 - Embed a picture to add some life to the resume.
-- make a twitter handle for twitter integration
-- Change the favicon to something other than a love heart
-- Edit the raw html section down the bottom of the page.
-- Buzzwords to "Language and Framework experience"
-  * Add in SQL, Microsoft server 2016 and Django.
